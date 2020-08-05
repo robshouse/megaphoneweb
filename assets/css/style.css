@@ -1,0 +1,69 @@
+body {
+  background-image: 
+
+}
+
+.fondo-gris {
+  background-color: black;
+  color: white;
+}
+.hero-section {
+  text-align: left;
+  background-image: url('../img/0.jfif');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #ffffff;
+  
+  padding: 6.25rem 3.125rem;
+}
+h1 {
+  font-size: 440% !important;
+  text-align: right;
+}
+h2 {
+  font-size: 300% !important;
+  text-align: right
+  ;
+}
+#carousel1 {
+  padding: 6.25rem 3.125rem; 
+}
+p {
+  text-align: center;
+  font-size: 40pt;
+}
+#inicio1 {
+  width: 20%;
+  color: #1814eb !important;
+  
+}
+#ubicacion1 {
+  width: 100%;
+  border:#1814eb !important;
+}
+#final14 {
+  background-color:#1814eb !important;
+   
+  text-align: center;
+  height: 300pt;
+  margin-top: 1.5rem;
+
+
+}
+#boton {
+  background: rgb(80, 80, 300);
+}
+.nav-link {
+  color: rgb(240, 240, 245) !important;
+}
+.card-title {
+  color: #1814eb !important;
+  border-top-width: 10px !important;
+  border-right-width: 1em !important;
+  border-bottom-width: thick;
+  border-left-width: thin;
+  
+}
+h3, h4 {
+  color: #ffffff;
+}
