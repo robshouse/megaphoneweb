@@ -19,6 +19,7 @@ body {
 h1 {
   font-size: 440% !important;
   text-align: right;
+  
 }
 h2 {
   font-size: 300% !important;
@@ -31,6 +32,7 @@ h2 {
 p {
   text-align: center;
   font-size: 40pt;
+  
 }
 #inicio1 {
   width: 20%;
@@ -55,6 +57,7 @@ p {
 }
 .nav-link {
   color: rgb(240, 240, 245) !important;
+
 }
 .card-title {
   color: #1814eb !important;
@@ -66,4 +69,7 @@ p {
 }
 h3, h4 {
   color: #ffffff;
+}
+.nav-link:hover {
+  background: red;
 }
